@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dummy-4f110": {
+      "hosting": {
+        "angular.io-example": [
+          "dummy-4f110"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dummy-4f110"
+  }
+}
