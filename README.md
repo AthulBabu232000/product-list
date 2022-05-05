@@ -1,3 +1,4 @@
-# angular-n12mgr-kdfxke
+ng build
+ng add @angular/fire
+ng deploy
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-n12mgr-kdfxke)
